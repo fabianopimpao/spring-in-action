@@ -1,6 +1,7 @@
 package me.pimpao.taco.web;
 
 import me.pimpao.taco.Ingredient;
+import me.pimpao.taco.Taco;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
